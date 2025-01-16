@@ -1,0 +1,104 @@
+{
+    "pokemons": {
+        "pokemon": [
+            {
+                "id": 1,
+                "nom": "Bulbasaur",
+                "tpus": [
+                    "planta",
+                    "veneno"
+                ],
+                "pes": {
+                    "unitats_de_mesura": "kilograms",
+                    "numero_pes": 6.9
+                },
+                "altura": {
+                    "unitats_de_mesura": "metres",
+                    "numero_altura": "0.7"
+                },
+                "estadistiques": {
+                    "velocitat": 3,
+                    "fortalesa": 3,
+                    "presicio": 4,
+                    "resistencia": 4
+                },
+                "moviments": [
+                    "placaje",
+                    "Gruñido",
+                    "Látigo cepa",
+                    "Desarollo",
+                    "Drenadores",
+                    "Hoja afilada",
+                    "Polvo venenod",
+                    "Somnífero",
+                    "Bomba germen",
+                    "Derribo",
+                    "Dulce aroma",
+                    "Sítnesis",
+                    "Abatidores",
+                    "Latigazo",
+                    "Rayo solar"
+                ],
+                "img": {
+                    "url": "https://www.wikidex.net/wiki/Archivo:Bulbasaur.png"
+                },
+                "evolucions": {
+                    "primera_evolucio": {
+                        "nom": "Ivysaur",
+                        "nivell": 16
+                    },
+                    "segona_evolucio": {
+                        "nom": "Venusaur",
+                        "nivell": 36
+                    }
+                }
+            },
+            {
+                "id": 4,
+                "nom": "Charmander",
+                "tpus": "fuego",
+                "pes": {
+                    "unitats_de_mesura": "kilograms",
+                    "numero_pes": 8.5
+                },
+                "altura": {
+                    "unitats_de_mesura": "metres",
+                    "numero_altura": "0.6"
+                },
+                "estadistiques": {
+                    "velocitat": 3,
+                    "fortalesa": 5,
+                    "presicio": 4,
+                    "resistencia": 3
+                },
+                "moviments": [
+                    "Arañazo",
+                    "Gruñido",
+                    "Ascuas",
+                    "Pantalla de humo",
+                    "Dragoaliento",
+                    "Colmillo ígneo",
+                    "Cuchillada",
+                    "Lanzallamas",
+                    "Cara susto",
+                    "Giro fuego",
+                    "Infierno",
+                    "Envite ígenio"
+                ],
+                "img": {
+                    "url": "https://www.wikidex.net/wiki/Archivo:Charmander.png"
+                },
+                "evolucions": {
+                    "primera_evolucio": {
+                        "nom": "Charmeleon",
+                        "nivell": 16
+                    },
+                    "segona_evolucio": {
+                        "nom": "Charizard",
+                        "nivell": 36
+                    }
+                }
+            }
+        ]
+    }
+}

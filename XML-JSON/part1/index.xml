@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+    <producte code="000">
+        <name>Macbook air M3</name>
+        <description>The MacBook Air M3 offers powerful performance with the efficient M3 chip, up to 18 hours of battery life, and a stunning Liquid Retina XDR display. Its ultra-thin, lightweight design is complemented by advanced features like Thunderbolt ports and Spatial Audio.</description>
+        <price>$1099</price>
+        <category>Computer</category>
+        <stock>Available</stock>
+        <img url="https://www.notebookcheck.org/fileadmin/_processed_/d/6/csm_IMG_2758_e853adb5f0.jpg" />
+    </producte>
+
+    <producte code="001">
+        <name>Iphone</name>
+        <description>The iPhone is a premium smartphone developed by Apple, known for its sleek design, powerful performance, and seamless integration with Apple's ecosystem.</description>
+        <price>$999</price>
+        <category>Phone</category>
+        <stock>Available</stock>
+        <img url="https://i.blogs.es/ccf8fb/iphone-16/1200_800.webp" />
+    </producte>
+</shop>

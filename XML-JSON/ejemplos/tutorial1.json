@@ -1,0 +1,24 @@
+{
+    "font":
+    {
+        "nom": "Mono",
+        "mida": 12,
+        "estil": "negeta"
+    }
+}
+
+{
+    "fonts": 
+    [
+        {
+            "nom": "Roboto",
+            "mida": 14,
+            "estil": "normal"
+        },
+        {
+            "nom": "Mono",
+            "mida": 12,
+            "estil": "negrita"
+        }
+    ]
+}

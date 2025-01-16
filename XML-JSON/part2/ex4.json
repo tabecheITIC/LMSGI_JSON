@@ -1,0 +1,58 @@
+{
+    "devices": {
+        "item_count": 4,
+        "device": [
+            {
+                "type": "computer",
+                "name": "Matebook",
+                "company": "Hwawwei",
+                "inches": "13",
+                "stock": true,
+                "price": {
+                    "currency": "$",
+                    "number": 780
+                },
+                "internal_info": "C:/Documents/files/matebook.json"
+            },
+            {
+               "type": "computer",
+                "name": "Titan",
+                "company": "Slimbook",
+                "inches": 15.6,
+                "stock": true,
+                "price": {
+                    "currency": "$",
+                    "number": 1949
+                }, 
+                "slogan": "We'v proposed 2 slogans: 'Slimbook Titan: Unles ...."
+            },
+            {
+                "type": "table",
+                "name": "Matepad",
+                "company": "Hwawwei",
+                "inches": 10.4,
+                "stock": false,
+                "price": {
+                    "currency": "$"
+                }
+            },
+            {
+                "type": "smartphone",
+                "name": "P50 Pocket",
+                "company": "Hwawwei",
+                "inches": 9,
+                "stock": true,
+                "price": {
+                    "currency": "$",
+                    "discount": "3%",
+                    "number": 999
+                },
+                "characteristics": [
+                    "5000mAh battery",
+                    "Super AMOLED Plus",
+                    "USB-C"
+                ]
+            }
+        ]
+    }
+}

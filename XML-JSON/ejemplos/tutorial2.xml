@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<escola>
+    <alumnes>
+        <alumne>
+            <matricula>A123</matricula>
+            <edat>22</edat>
+            <nom>Maria</nom>
+        </alumne>
+
+        <alumne>
+            <matricula>B456</matricula>
+            <edat>21</edat>
+            <nom>Pere</nom>
+        </alumne>
+    </alumnes>
+
+    <professor>
+        <departament>Matemàtiques</departament>
+        <nom>Dra. Martínez</nom>
+    </professor>
+</escola>
